@@ -12,3 +12,4 @@ C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Client\obj\Debug\net8.0\refint\Client.dll
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Client\obj\Debug\net8.0\Client.pdb
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Client\obj\Debug\net8.0\Client.sourcelink.json

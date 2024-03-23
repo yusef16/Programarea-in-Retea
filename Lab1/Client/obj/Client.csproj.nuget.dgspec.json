@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\Lab1\\Client\\Client.csproj": {}
+    "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\lab1\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\Lab1\\Client\\Client.csproj": {
+    "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\lab1\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\Lab1\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\lab1\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\Lab1\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\lab1\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\yusef16\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\yusef16\\Desktop\\sem 6\\PR\\Lab1\\Client\\obj\\",
         "projectStyle": "PackageReference",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,3 +12,4 @@ C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Lab1\obj\Debug\net8.0\refint\Server.dll
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Lab1\obj\Debug\net8.0\Server.pdb
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Lab1\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Lab1\obj\Debug\net8.0\ref\Server.dll
+C:\Users\yusef16\Desktop\sem 6\PR\Lab1\Lab1\obj\Debug\net8.0\Server.sourcelink.json
